@@ -1,0 +1,3 @@
+rootProject.name = 'exo_design_react_native'
+
+include ':app'
