@@ -5,9 +5,13 @@ Design ce screenshot
   <img src="https://github.com/bamlab/BAM-exo-design/blob/master/src/Images/Ada%20Design.png"/>
 </p>
 
+# Simulateurs 
+- Lancer le projet sur Xcode avec le simulateur d'iphone 5S
+- Lancer le projet sur Genymotion avec le simulateur de samsung S7
+
 # la police
-La police des titres: Calibri-Bold
-La police du texte: Calibri-Light
+- La police des titres: Calibri-Bold
+- La police du texte: Calibri-Light
 
 # Texte à copier
 Lorem ipsum dolor sit amet, 
