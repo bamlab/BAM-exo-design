@@ -18,4 +18,4 @@ sit amet iaculis, phasellus auctor.
 Lorem ipsum dolor sit amet :
    - Lorem ipsum dolor sit ametaz ejdeje
    - um dolor sit amet
-   -venenatis suscipit. Maecenas ac
+   - venenatis suscipit. Maecenas ac
