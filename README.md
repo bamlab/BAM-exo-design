@@ -10,6 +10,7 @@ Design ce screenshot
 - Fais un plan sur une feuille en décomposant la page à designer en View, Text et Image
 - Compare ta décomposition aux solutions présentes dans le dossier src/images
 - Lance les simulateurs mentionnés ci-dessous 
+- Implémente le design au dessus en modifiant: src/pages/Home/index.js 
 - PS: Voici 2 liens qui pourraient t'être utiles : https://css-tricks.com/snippets/css/a-guide-to-flexbox/ et https://facebook.github.io/react-native/docs/layout-props.html
 
 # Simulateurs 
