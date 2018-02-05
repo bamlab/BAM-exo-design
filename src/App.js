@@ -1,14 +1,25 @@
-import { StackNavigator } from 'react-navigation';
+import React, { Component } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
 
-import * as Pages from 'exo_design_react_native/src/pages';
+import { Page, Button } from 'exo_design_react_native/src/components';
 
-export default StackNavigator({
-  home: {
-    screen: Pages.Home,
+class App extends Component {
+  render() {
+    return (
+      <Page>
+        <View>
+          <Button buttonText="CONFIRMER ÉTAT DES LIEUX" />
+        </View>
+      </Page>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  page: {
+    flex: 1,
+    margin: 10,
   },
-  infos: {
-    screen: Pages.Infos,
-  },
-}, {
-  initialRouteName: 'home',
 });
+
+export default App;
