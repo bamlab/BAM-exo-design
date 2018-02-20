@@ -71,3 +71,4 @@ Lorem ipsum dolor sit amet :
 ```
 
 * Voici un lien qui pourrait t'être utile : https://facebook.github.io/react-native/docs/layout-props.html#zindex
+* ⚠️La propriété z-index n'est pas aussi simple qu'il n'y paraît, et il est tout à fait possible d'avoir un élément avec un z-index de 0 "au-dessus" d'un élément avec un z-index de 1000. Pour en savoir plus : https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
