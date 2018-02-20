@@ -25,16 +25,19 @@
 </p>
 
 * Texte à copier :
-  Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit.
-  Quisque varius varius lectus
-  sit amet iaculis, phasellus auctor.
+
+```
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit.
+Quisque varius varius lectus
+sit amet iaculis, phasellus auctor.
 
 Lorem ipsum dolor sit amet :
 
 * Lorem ipsum dolor sit ametaz ejdeje
 * um dolor sit amet
 * venenatis suscipit. Maecenas ac
+```
 
 * Hint : Voici 2 liens qui pourraient t'être utiles : https://css-tricks.com/snippets/css/a-guide-to-flexbox/ et https://facebook.github.io/react-native/docs/layout-props.html
 
@@ -45,6 +48,8 @@ Lorem ipsum dolor sit amet :
 </p>
 
 * Texte à copier :
+
+```
   Gimme a ticket for an aeroplane<br/>
   Ain't got time to take a fast train<br/>
   Lonely days are gone, I'm a-goin' home<br/>
@@ -63,5 +68,6 @@ Lorem ipsum dolor sit amet :
   Lonely days are gone, I'm a-goin' home<br/>
   My baby, just-a wrote me a letter<br/>
   Well, she wrote me a letter<br/>
+```
 
 * Voici un lien qui pourrait t'être utile : https://facebook.github.io/react-native/docs/layout-props.html#zindex
