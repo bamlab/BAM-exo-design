@@ -1,14 +1,17 @@
-import { StackNavigator } from 'react-navigation';
+import React, { Component } from 'react';
+import { Text, View } from 'react-native';
 
-import * as Pages from 'exo_design_react_native/src/pages';
+import { Page } from 'exo_design_react_native/src/components';
+import { Car, Song } from 'exo_design_react_native/src/pages';
 
-export default StackNavigator({
-  home: {
-    screen: Pages.Home,
-  },
-  infos: {
-    screen: Pages.Infos,
-  },
-}, {
-  initialRouteName: 'home',
-});
+class App extends Component {
+  render() {
+    return (
+      <Page>
+        <Song />
+      </Page>
+    );
+  }
+}
+
+export default App;
