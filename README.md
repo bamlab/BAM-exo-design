@@ -50,24 +50,24 @@ Lorem ipsum dolor sit amet :
 * Texte à copier :
 
 ```
-  Gimme a ticket for an aeroplane<br/>
-  Ain't got time to take a fast train<br/>
-  Lonely days are gone, I'm a-goin' home<br/>
-  My baby, just-a wrote me a letter<br/>
-  I don't care how much money I gotta spend<br/>
-  Got to get back to my baby again<br/>
-  Lonely days are gone, I'm a-goin' home<br/>
-  My baby, just-a wrote me a letter<br/>
-  Well, she wrote me a letter<br/>
-  Said she couldn't live without me no more<br/>
-  Listen mister, can't you see I got to get back<br/>
-  To my baby once-a more<br/>
-  Anyway, yeah!<br/>
-  Gimme a ticket for an aeroplane<br/>
-  Ain't got time to take a fast train<br/>
-  Lonely days are gone, I'm a-goin' home<br/>
-  My baby, just-a wrote me a letter<br/>
-  Well, she wrote me a letter<br/>
+  Gimme a ticket for an aeroplane
+  Ain't got time to take a fast train
+  Lonely days are gone, I'm a-goin' home
+  My baby, just-a wrote me a letter
+  I don't care how much money I gotta spend
+  Got to get back to my baby again
+  Lonely days are gone, I'm a-goin' home
+  My baby, just-a wrote me a letter
+  Well, she wrote me a letter
+  Said she couldn't live without me no more
+  Listen mister, can't you see I got to get back
+  To my baby once-a more
+  Anyway, yeah!
+  Gimme a ticket for an aeroplane
+  Ain't got time to take a fast train
+  Lonely days are gone, I'm a-goin' home
+  My baby, just-a wrote me a letter
+  Well, she wrote me a letter
 ```
 
 * Voici un lien qui pourrait t'être utile : https://facebook.github.io/react-native/docs/layout-props.html#zindex
